@@ -40,5 +40,4 @@ The analysis was conducted using three primary datasets:
 
 ## 🚀 Deliverables
 - **Power BI Dashboard (.pbix file)** – Interactive dashboard showcasing insights.  
-- **Presentation Deck** – Key findings & recommendations.  
-- **Exported PDF/Images** – Screenshots of dashboard visuals (for quick view).  
+- **Presentation Deck** – Key findings & recommendations.    
